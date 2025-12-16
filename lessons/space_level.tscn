@@ -7,7 +7,7 @@
 [node name="Level" type="Node2D"]
 
 [node name="Ship" parent="." instance=ExtResource("2_2j1u5")]
-position = Vector2(946, 546)
+position = Vector2(741, 498)
 
 [node name="SpaceBackground" parent="." instance=ExtResource("3_e6xy1")]
 
@@ -19,3 +19,6 @@ position = Vector2(362, 764)
 
 [node name="health pack3" parent="." instance=ExtResource("3_etm7e")]
 position = Vector2(1273, 526)
+
+[node name="health pack4" parent="." instance=ExtResource("3_etm7e")]
+position = Vector2(824, 754)
